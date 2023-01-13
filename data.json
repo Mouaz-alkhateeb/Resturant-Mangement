@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "name": "mouaz alkhateeb",
+      "email": "mouaz@gmail.com",
+      "password": "0123456789",
+      "id": 1
+    },
+    {
+      "name": "gamal alkhateeb",
+      "email": "gamal@gmail.com",
+      "password": "0123456789",
+      "id": 2
+    }
+  ],
+  "locations": [
+    {
+      "name": "Hayes Graham",
+      "phone": "+1 (488) 496-6805",
+      "addres": "Eum vel tenetur quo ",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "Sandra Leonard",
+      "phone": "+1 (184) 556-7179",
+      "addres": "Unde quas iusto reic",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "name": "Zeus Bradley",
+      "phone": "+1 (236) 968-2739",
+      "addres": "Delectus dolor aliq",
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "name": "Joy Daugherty",
+      "phone": "+1 (849) 142-9977",
+      "addres": "Ipsum aute enim repu",
+      "userId": 2,
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "name": "Zia Camacho",
+      "userId": 1,
+      "locationId": 1,
+      "id": 1
+    },
+    {
+      "name": "Jacob Keller",
+      "userId": 1,
+      "locationId": 1,
+      "id": 2
+    },
+    {
+      "name": "Grady English",
+      "userId": 1,
+      "locationId": 2,
+      "id": 3
+    },
+    {
+      "name": "Tatyana Wilder",
+      "userId": 2,
+      "locationId": 3,
+      "id": 4
+    }
+  ],
+  "items": []
+}
